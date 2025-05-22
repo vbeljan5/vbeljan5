@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Vincent Beljan.
+Vincent Beljan
 vmbeljan@my.waketech.edu
 
 This is my Student GitHub account.
