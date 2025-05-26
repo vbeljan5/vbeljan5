@@ -15,7 +15,7 @@ My assignment repository.
 ## _Websites I recommend_
 1. The first website is a no-brainer for me. [Youtube.com](www.Youtube.com).
 
- The sheer amount of knowledge you can learn on it has risen exponetionally. Misinformation is always a concern, but can usually be deduced through pretty quickly. AI will most likely replace how people research and sift through information, but youtube really made it easy and popularized it in the first place.
+ The sheer amount of knowledge you can learn on it has risen exponetionally. Misinformation is always a concern, but can usually be deduced through pretty quickly. AI will most likely replace how people research and sift through information, but youtube really made it easy and popularized it in the first place. I grew up very poor in a troubled area so there are many large gaps in my common knowledge. Youtube just makes it very easy to fill those gaps without having to sift through definations, user manuals and forums.
  
 2. My second is [NexusMods](www.NexusMods.com)
 
